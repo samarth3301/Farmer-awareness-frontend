@@ -8,9 +8,9 @@ const ExpertHelp: React.FC = () => {
     <div className="pt-16"> {/* Padding top to account for the fixed navbar */}
       <div className="relative overflow-hidden">
         <img 
-          src="https://images.pexels.com/photos/5648416/pexels-photo-5648416.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+          src="https://ik.imagekit.io/aware/Activity%20Tracker/Need_Help_Update.png?updatedAt=1745791410168"
           alt="Agricultural expert discussing with farmer" 
-          className="w-full h-[400px] object-cover"
+          className="w-full h-[400px] object-contain"
         />
         <div className="absolute inset-0 bg-black bg-opacity-50 flex items-center justify-center">
           <div className="text-center p-4">

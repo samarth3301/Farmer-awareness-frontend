@@ -8,7 +8,7 @@ const PhTesting: React.FC = () => {
     <div className="pt-16"> {/* Padding top to account for the fixed navbar */}
       <div className="relative overflow-hidden">
         <img 
-          src="https://images.pexels.com/photos/5528960/pexels-photo-5528960.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+          src="https://ik.imagekit.io/aware/Activity%20Tracker/non_bleed_test_strips_webbanner.png?updatedAt=1745791989040"
           alt="Soil testing" 
           className="w-full h-[400px] object-cover"
         />

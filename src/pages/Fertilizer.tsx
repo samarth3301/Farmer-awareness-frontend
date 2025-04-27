@@ -9,7 +9,7 @@ const Fertilizer: React.FC = () => {
     <div className="pt-16"> {/* Padding top to account for the fixed navbar */}
       <div className="relative overflow-hidden">
         <img 
-          src="https://images.pexels.com/photos/2260267/pexels-photo-2260267.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+          src="https://ik.imagekit.io/aware/Activity%20Tracker/banner-picture-fertilizer-regulation-1024x457.png?updatedAt=1745791894301"
           alt="Fertilizer application" 
           className="w-full h-[400px] object-cover"
         />

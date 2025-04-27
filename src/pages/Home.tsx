@@ -12,7 +12,7 @@ const Home: React.FC = () => {
       <Hero
         title="Smart Farming for a Sustainable Future"
         subtitle="Learn about safe pesticide use, soil testing, and fertilizer management for healthier crops and better yields"
-        imageSrc="https://images.pexels.com/photos/5466460/pexels-photo-5466460.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+        imageSrc="https://ik.imagekit.io/aware/Activity%20Tracker/20240511_STP002.png?updatedAt=1745791197028"
         primaryButtonText="Explore Tools"
         primaryButtonLink="/ph-testing"
         secondaryButtonText="Contact Experts"

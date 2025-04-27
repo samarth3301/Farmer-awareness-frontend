@@ -90,7 +90,7 @@ const PesticideEffects: React.FC = () => {
     <div className="pt-16"> {/* Padding top to account for the fixed navbar */}
       <div className="relative overflow-hidden">
         <img 
-          src="https://images.pexels.com/photos/4501177/pexels-photo-4501177.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+          src='https://ik.imagekit.io/aware/Activity%20Tracker/banner-2.png?updatedAt=1745791715141'
           alt="Pesticide spraying" 
           className="w-full h-[400px] object-cover"
         />
