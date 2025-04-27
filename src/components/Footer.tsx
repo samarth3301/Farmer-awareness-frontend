@@ -53,7 +53,7 @@ const Footer = () => {
               </li>
               <li className="flex items-start">
                 <MapPin className="h-5 w-5 text-green-400 mr-2 mt-0.5" />
-                <span className="text-green-200">123 Agricultural Research Center, New Delhi, India</span>
+                <span className="text-green-200">Mit adt loni kabour pune india</span>
               </li>
             </ul>
           </div>
@@ -61,7 +61,7 @@ const Footer = () => {
         
         <div className="border-t border-green-800 mt-8 pt-6">
           <p className="text-center text-green-300">
-            &copy; {currentYear} AgriSmart. All rights reserved.
+            &copy; {currentYear} MIT ADT. All rights reserved.
           </p>
         </div>
       </div>
