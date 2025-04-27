@@ -186,11 +186,11 @@ const ExpertHelp: React.FC = () => {
             <div className="flex flex-col md:flex-row justify-center gap-6">
               <div className="flex items-center justify-center">
                 <PhoneCall className="h-5 w-5 text-green-600 mr-2" />
-                <span className="text-gray-700">Helpline: 1800-123-4567</span>
+                <span className="text-gray-700">Helpline: 97911 30649</span>
               </div>
               <div className="flex items-center justify-center">
                 <MessageSquare className="h-5 w-5 text-green-600 mr-2" />
-                <span className="text-gray-700">experts@agrismart.in</span>
+                <span className="text-gray-700">jayeshprakashnarayan64@gmail.com</span>
               </div>
             </div>
           </div>
